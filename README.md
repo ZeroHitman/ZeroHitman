@@ -111,8 +111,11 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ZeroHitman/ZeroHitman/ular.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="ular.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="ular.svg" />
+  <img alt="github-snake" src="ular.svg" />
+</picture>
 
 ###
 
