@@ -112,7 +112,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ZeroHitman/ZeroHitman/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ZeroHitman/ZeroHitman/ular.svg" alt="Snake animation" />
 
 ###
 
